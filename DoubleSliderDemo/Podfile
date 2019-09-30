@@ -1,0 +1,5 @@
+target 'DoubleSliderDemo' do
+  use_frameworks!
+
+  pod 'DoubleSlider', :path => '../'
+end

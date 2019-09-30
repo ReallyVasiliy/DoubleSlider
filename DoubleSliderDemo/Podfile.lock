@@ -1,0 +1,16 @@
+PODS:
+  - DoubleSlider (0.25.0)
+
+DEPENDENCIES:
+  - DoubleSlider (from `../`)
+
+EXTERNAL SOURCES:
+  DoubleSlider:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DoubleSlider: 9918bca9a7c45b4026733e4a280edfee62c7f9c9
+
+PODFILE CHECKSUM: 91e032ecb57d2596eb6e0d5ded16816ce8c77135
+
+COCOAPODS: 1.7.5
